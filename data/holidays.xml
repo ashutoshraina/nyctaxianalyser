@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<holidays>
+    <holiday>
+        <Day>Friday</Day>
+        <Date>January 01</Date>
+        <Holiday>New Years Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>January 18</Date>
+        <Holiday>Martin Luther King Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Friday</Day>
+        <Date>February 12</Date>
+        <Holiday>Lincoln&apos;s Birthday</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>February 15</Date>
+        <Holiday>Presidents&apos; Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Sunday</Day>
+        <Date>May 08</Date>
+        <Holiday>Mother&apos;s Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>May 30</Date>
+        <Holiday>Memorial Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Sunday</Day>
+        <Date>June 19</Date>
+        <Holiday>Father&apos;s Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>July 04</Date>
+        <Holiday>Independence Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>September 05</Date>
+        <Holiday>Labor Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>October 10</Date>
+        <Holiday>Columbus Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Friday</Day>
+        <Date>November 11</Date>
+        <Holiday>Veterans Day</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Thursday</Day>
+        <Date>November 24</Date>
+        <Holiday>Thanksgiving</Holiday>
+    </holiday>
+    <holiday>
+        <Day>Monday</Day>
+        <Date>December 26</Date>
+        <Holiday>Christmas Day</Holiday>
+    </holiday>
+</holidays>
